@@ -39,8 +39,8 @@ XXXXX    Count Vowels – Enter a string and the program counts the number of vo
 XXXXX    Check if Palindrome – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as 
          backwards like “racecar”
 
-Count Words in a String – Counts the number of individual words in a string. For added complexity read these strings in from a 
-text file and generate a summary.
+XXXXX    Count Words in a String – Counts the number of individual words in a string. For added complexity read these strings in from a 
+         text file and generate a summary.
 
 Text Editor – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
 
